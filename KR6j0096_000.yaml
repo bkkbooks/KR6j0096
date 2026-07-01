@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0096/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥師儀軌一具
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0924C.xml
+    old_id: T19n0924C
+hash: sha256:f1b2868b48cdfc627ff42f537448312e046b7b76414e3c12593334fabe82558b

@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6j0096/v1
+canonical_location: https://kanripo.org/bkk/KR6j0096/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 藥師儀軌一具
+  identifiers:
+    alt_id:
+    - T19n0924C
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0924C.xml
+    old_id: T19n0924C
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0096_000.yaml, hash: 'sha256:f1b2868b48cdfc627ff42f537448312e046b7b76414e3c12593334fabe82558b'}
+  - {seq: 1, filename: KR6j0096_001.yaml, hash: 'sha256:3b0c13c3e8673dec6feb86bd124099fa2c900a79dc4d4ad666d7d32a185abc5b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0096_001.markers.yaml, hash: 'sha256:48b80d4665f1c22ad71b57b16fe61fc459dafaa4da1862e65174151568805319'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0096_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2962
+  label: 藥師儀軌一具
+  type: juan
+  level: 1
+hash: sha256:f6fa615f270f55050d2767676b230c8061e9251fad2e012a232f04488cc46cb4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

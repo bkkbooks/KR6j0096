@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0096/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0096/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥師儀軌一具
+  identifiers:
+    krp: KR6j0096
+    cbeta: T19n0924C
+    cbeta_old_id: T19n0924C
+    authorityid: CA0003702
+    json_key: T0924C
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0924C.xml
+    old_id: T19n0924C
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0096_000-T.yaml, hash: 'sha256:f1b2868b48cdfc627ff42f537448312e046b7b76414e3c12593334fabe82558b'}
+  - {seq: 1, filename: KR6j0096_001-T.yaml, hash: 'sha256:eea74267a24792503831a23bacf79c66874b63c137cd372c0f672beb2672499d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0096_000-T.markers.yaml, hash: 'sha256:8009cd82e5de4d3074d0b293c6d719c713b13c014837ee2f7db1ae99334d17cb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0096_001-T.markers.yaml, hash: 'sha256:f9112dea1288eafe113104614023237baa2e5a9579eeeaa7af2510c7416bf750'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0096_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2962
+  label: 藥師儀軌一具
+  type: juan
+  level: 1
+hash: sha256:1b4870d0b87755f33d4ce2421d5875e331b327428924d40d3aac84c525142270
