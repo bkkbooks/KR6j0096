@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0096_000.yaml, hash: 'sha256:f1b2868b48cdfc627ff42f537448312e046b7b76414e3c12593334fabe82558b'}
-  - {seq: 1, filename: KR6j0096_001.yaml, hash: 'sha256:3b0c13c3e8673dec6feb86bd124099fa2c900a79dc4d4ad666d7d32a185abc5b'}
+  - {seq: 1, filename: KR6j0096_001.yaml, hash: 'sha256:eea74267a24792503831a23bacf79c66874b63c137cd372c0f672beb2672499d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0096_001.markers.yaml, hash: 'sha256:48b80d4665f1c22ad71b57b16fe61fc459dafaa4da1862e65174151568805319'}
+  - {seq: 0, role: markers, filename: assets/KR6j0096_000.markers.yaml, hash: 'sha256:4b495f675168430e8146a6b96863985001541d8fd3366827c8ae95377f2cf679'}
+  - {seq: 1, role: markers, filename: assets/KR6j0096_001.markers.yaml, hash: 'sha256:199e770946ef3bcda596891051a5e8bb1202bf80ac654603d88825c666ab04e2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 藥師儀軌一具
   type: juan
   level: 1
-hash: sha256:f6fa615f270f55050d2767676b230c8061e9251fad2e012a232f04488cc46cb4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:60545adc5fa323e2f1bc6776d1852962409ac370e198c283064ec628dee2e872
