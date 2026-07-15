@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0096/v1
 canonical_location: https://kanripo.org/bkk/KR6j0096/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥師儀軌一具
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0096_000.yaml, hash: 'sha256:f1b2868b48cdfc627ff42f537448312e046b7b76414e3c12593334fabe82558b'}
-  - {seq: 1, filename: KR6j0096_001.yaml, hash: 'sha256:eea74267a24792503831a23bacf79c66874b63c137cd372c0f672beb2672499d'}
+  - {seq: 1, filename: KR6j0096_001.yaml, hash: 'sha256:3a95b81afad04db3d31a9d9d9841b278d60a4c38c5f05d001551794e12b16a6d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0096_000.markers.yaml, hash: 'sha256:4b495f675168430e8146a6b96863985001541d8fd3366827c8ae95377f2cf679'}
-  - {seq: 1, role: markers, filename: assets/KR6j0096_001.markers.yaml, hash: 'sha256:199e770946ef3bcda596891051a5e8bb1202bf80ac654603d88825c666ab04e2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0096_001.markers.yaml, hash: 'sha256:7f9d278f95cb17b64bb3aa140ea005a4cac6a514764cb29a3b1534635f0648b4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 藥師儀軌一具
   type: juan
   level: 1
-hash: sha256:60545adc5fa323e2f1bc6776d1852962409ac370e198c283064ec628dee2e872
+hash: sha256:f3ea5e7b1a92bab1aaa090bda773020383bbf01189ffe858533e06c8a7d2c5fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
